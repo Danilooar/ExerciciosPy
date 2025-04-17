@@ -1,3 +1,10 @@
+"""
+Descrição: Este programa lê uma temperatura em Celsius e informa se está frio, quente ou muito frio. 
+    
+"""
+
+
+
 Temperatura = float(input("Digite a temperatura em Celsius: "))
 
 
